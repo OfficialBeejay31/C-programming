@@ -9,7 +9,6 @@ int linearSearch(int list[], int target, int size){
             return i;
         }
     }
-    printf("size: %d", size);
     return -1;
     
     
